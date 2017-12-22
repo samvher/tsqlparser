@@ -1,0 +1,8 @@
+package tsqlparser
+
+sourceloc  = git://git@github.com:samvher/tsqlparser.git
+bugtracker = http://www.github.com/samvher/tsqlparser/issues
+
+pkgs = lightyear
+
+modules = Main
